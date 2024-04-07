@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-07T13:50:57 IST" name="Suite" finished-at="2024-04-07T13:51:13 IST" duration-ms="15914">
+    <groups>
+    </groups>
+    <test started-at="2024-04-07T13:50:57 IST" name="Test" finished-at="2024-04-07T13:51:13 IST" duration-ms="15914">
+      <class name="org.example.MyfirstDemo.AppTest">
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:org.example.MyfirstDemo.AppTest@3eb7fc54]" started-at="2024-04-07T13:51:13 IST" name="shouldAnswerWithTrue" finished-at="2024-04-07T13:51:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- org.example.MyfirstDemo.AppTest -->
+      <class name="org.example.MyfirstDemo.Sample">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.example.MyfirstDemo.Sample@769e7ee8]" started-at="2024-04-07T13:50:57 IST" name="setUp" finished-at="2024-04-07T13:50:58 IST" duration-ms="1249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAmazonTitle()[pri:0, instance:org.example.MyfirstDemo.Sample@769e7ee8]" started-at="2024-04-07T13:50:58 IST" name="testAmazonTitle" finished-at="2024-04-07T13:51:00 IST" duration-ms="2039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmazonTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.example.MyfirstDemo.Sample@769e7ee8]" started-at="2024-04-07T13:51:00 IST" name="tearDown" finished-at="2024-04-07T13:51:00 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.example.MyfirstDemo.Sample@769e7ee8]" started-at="2024-04-07T13:51:00 IST" name="setUp" finished-at="2024-04-07T13:51:01 IST" duration-ms="592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCheckFooterLinks()[pri:0, instance:org.example.MyfirstDemo.Sample@769e7ee8]" started-at="2024-04-07T13:51:01 IST" name="testCheckFooterLinks" finished-at="2024-04-07T13:51:05 IST" duration-ms="3734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckFooterLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.example.MyfirstDemo.Sample@769e7ee8]" started-at="2024-04-07T13:51:05 IST" name="tearDown" finished-at="2024-04-07T13:51:05 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.example.MyfirstDemo.Sample@769e7ee8]" started-at="2024-04-07T13:51:05 IST" name="setUp" finished-at="2024-04-07T13:51:05 IST" duration-ms="581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCricBuzzTitle()[pri:0, instance:org.example.MyfirstDemo.Sample@769e7ee8]" started-at="2024-04-07T13:51:05 IST" name="testCricBuzzTitle" finished-at="2024-04-07T13:51:07 IST" duration-ms="1808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCricBuzzTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.example.MyfirstDemo.Sample@769e7ee8]" started-at="2024-04-07T13:51:07 IST" name="tearDown" finished-at="2024-04-07T13:51:07 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.example.MyfirstDemo.Sample@769e7ee8]" started-at="2024-04-07T13:51:07 IST" name="setUp" finished-at="2024-04-07T13:51:08 IST" duration-ms="794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testGoogleTitle()[pri:0, instance:org.example.MyfirstDemo.Sample@769e7ee8]" started-at="2024-04-07T13:51:08 IST" name="testGoogleTitle" finished-at="2024-04-07T13:51:10 IST" duration-ms="1593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.example.MyfirstDemo.Sample@769e7ee8]" started-at="2024-04-07T13:51:10 IST" name="tearDown" finished-at="2024-04-07T13:51:10 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.example.MyfirstDemo.Sample@769e7ee8]" started-at="2024-04-07T13:51:10 IST" name="setUp" finished-at="2024-04-07T13:51:10 IST" duration-ms="583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testNavigateToAboutPage()[pri:0, instance:org.example.MyfirstDemo.Sample@769e7ee8]" started-at="2024-04-07T13:51:10 IST" name="testNavigateToAboutPage" finished-at="2024-04-07T13:51:13 IST" duration-ms="2358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavigateToAboutPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.example.MyfirstDemo.Sample@769e7ee8]" started-at="2024-04-07T13:51:13 IST" name="tearDown" finished-at="2024-04-07T13:51:13 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.example.MyfirstDemo.Sample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

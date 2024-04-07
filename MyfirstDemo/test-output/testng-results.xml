@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-03T23:20:42 IST" name="Default suite" finished-at="2024-04-03T23:21:03 IST" duration-ms="20856">
+    <groups>
+    </groups>
+    <test started-at="2024-04-03T23:20:42 IST" name="Default test" finished-at="2024-04-03T23:21:03 IST" duration-ms="20856">
+      <class name="org.example.MyfirstDemo.Sample">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.example.MyfirstDemo.Sample@2e005c4b]" started-at="2024-04-03T23:20:42 IST" name="setUp" finished-at="2024-04-03T23:20:43 IST" duration-ms="1342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAmazonTitle()[pri:0, instance:org.example.MyfirstDemo.Sample@2e005c4b]" started-at="2024-04-03T23:20:43 IST" name="testAmazonTitle" finished-at="2024-04-03T23:20:45 IST" duration-ms="2189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmazonTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.example.MyfirstDemo.Sample@2e005c4b]" started-at="2024-04-03T23:20:45 IST" name="tearDown" finished-at="2024-04-03T23:20:45 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.example.MyfirstDemo.Sample@2e005c4b]" started-at="2024-04-03T23:20:45 IST" name="setUp" finished-at="2024-04-03T23:20:46 IST" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCheckFooterLinks()[pri:0, instance:org.example.MyfirstDemo.Sample@2e005c4b]" started-at="2024-04-03T23:20:46 IST" name="testCheckFooterLinks" finished-at="2024-04-03T23:20:51 IST" duration-ms="5224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckFooterLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.example.MyfirstDemo.Sample@2e005c4b]" started-at="2024-04-03T23:20:51 IST" name="tearDown" finished-at="2024-04-03T23:20:51 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.example.MyfirstDemo.Sample@2e005c4b]" started-at="2024-04-03T23:20:51 IST" name="setUp" finished-at="2024-04-03T23:20:52 IST" duration-ms="645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCricBuzzTitle()[pri:0, instance:org.example.MyfirstDemo.Sample@2e005c4b]" started-at="2024-04-03T23:20:52 IST" name="testCricBuzzTitle" finished-at="2024-04-03T23:20:55 IST" duration-ms="2841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCricBuzzTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.example.MyfirstDemo.Sample@2e005c4b]" started-at="2024-04-03T23:20:55 IST" name="tearDown" finished-at="2024-04-03T23:20:55 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.example.MyfirstDemo.Sample@2e005c4b]" started-at="2024-04-03T23:20:55 IST" name="setUp" finished-at="2024-04-03T23:20:56 IST" duration-ms="709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testGoogleTitle()[pri:0, instance:org.example.MyfirstDemo.Sample@2e005c4b]" started-at="2024-04-03T23:20:56 IST" name="testGoogleTitle" finished-at="2024-04-03T23:20:57 IST" duration-ms="1252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.example.MyfirstDemo.Sample@2e005c4b]" started-at="2024-04-03T23:20:57 IST" name="tearDown" finished-at="2024-04-03T23:20:57 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.example.MyfirstDemo.Sample@2e005c4b]" started-at="2024-04-03T23:20:57 IST" name="setUp" finished-at="2024-04-03T23:20:58 IST" duration-ms="705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testNavigateToAboutPage()[pri:0, instance:org.example.MyfirstDemo.Sample@2e005c4b]" started-at="2024-04-03T23:20:58 IST" name="testNavigateToAboutPage" finished-at="2024-04-03T23:21:02 IST" duration-ms="4381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavigateToAboutPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.example.MyfirstDemo.Sample@2e005c4b]" started-at="2024-04-03T23:21:02 IST" name="tearDown" finished-at="2024-04-03T23:21:03 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.example.MyfirstDemo.Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
